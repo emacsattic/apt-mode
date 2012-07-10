@@ -297,3 +297,4 @@ Special commands:
       (buffer-substring start-pos end-pos))))
 
 (provide 'apt)
+(provide 'apt-mode)
